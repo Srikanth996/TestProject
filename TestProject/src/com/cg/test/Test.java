@@ -9,7 +9,8 @@ public class Test {
 		System.out.println("Hi");
 		System.out.println("hello");
 		System.out.println("cool");
-		System.out.println("snow");
+System.out.println("snow");
+System.out.println("Chill");
 
 	}
 
